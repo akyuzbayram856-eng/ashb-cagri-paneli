@@ -1,0 +1,13 @@
+﻿Ay;Yıl;İlk 20 Saniyede Karşılama Oranı (SL);Hizmet Kalitesi Hedef Gerçekleştirme Oranı (SLA);Çağrı Kuyruğu Gelen;Cevaplanan;Kaçan;Kaçan %;Taşan Çağrı;Kuyrukta Ortalama Bekleme Süresi (AVGWAIT);Kuyrukta En Uzun Bekleme Süresi (MAXWAIT);Cevaplanan Çağrılar İçinde En uzun Bekleme Süresi (ANSWEREDMAXWAIT);Kaçan Çağrılar İçinde En Uzun Bekleme Süresi (ABANDONMAXWAIT);Cevaplanan Yüzdesi %;ACHT;ACW;Ortalama AVAİL Süresi (AAT)
+Ocak;2025;99,4;;457697;454834;2863;0,63%;;;;645;;99,37%;118,5;;
+Şubat;2025;99,6;;343123;336865;6258;1,82%;;;;221;;98,18%;121,5;;
+Mart;2025;99,9;;379823;377936;1887;0,50%;;;;1612;;99,50%;116,1;;
+Nisan;2025;94,1;;307636;304354;3282;1,07%;;;;1525;;98,93%;134,8;;
+Mayıs;2025;95,6;;418503;405415;13088;3,13%;;;;1009;;96,87%;122;;
+Haziran;2025;91,1;;397888;387206;10682;2,68%;;;;2050;;97,32%;117,6;;
+Temmuz;2025;98,3;;452610;449111;3499;0,77%;;;;417;;99,23%;123,1;;
+Ağustos;2025;98,3;;368265;365566;2699;0,73%;;;;355;;99,27%;119,9;;
+Eylül;2025;93,9;;514262;501389;12873;2,50%;;;;453;;97,50%;119,8;;
+Ekim;2025;99,8;;364321;362910;1411;0,39%;;;;2588;;99,61%;121,8;;
+Kasım;2025;98,3;;349707;344218;5489;1,57%;;;;4217;;98,43%;116;;
+Aralık;2025;100;;350420;349194;1226;0,35%;;;;95;;99,65%;118,2;;
